@@ -1,0 +1,228 @@
+S.No,Date,Shark_ID,gc_ID,Shark Species, Local/Common Name,Stomach Fullness,Prey Family,Prey Species,Condition,Number,Weight_gms
+1,19-02-2022,SLM01,SLM01.1,Scoliodon laticaudus,Unidentified teleosts,2,Unidentified,Unidentified,0,3,0.3
+2,19-02-2022,SLM02,SLM02.1,Scoliodon laticaudus,Unidentified teleosts,3,Unidentified,Unidentified,0,5,0.1
+3,19-02-2022,SLM03,SLM03.1,Scoliodon laticaudus,Unidentified teleosts,3,Unidentified,Unidentified,0,5,0.3
+4,21-02-2022,CLM05,CLM05.1,Carcharhinus limbatus,Indian Squid,5,Loliginidae,Loligo duvauceli,1,2,3.24
+5,21-02-2022,CLM05,CLM05.2,Carcharhinus limbatus,Unidentified teleosts,5,Unidentified,Unidentified,0,5,0.3
+6,21-02-2022,CGF01,CGF01.1,Chiloscyllium griseum,Swimming crab,5,Portunidae,Charybdis sp,1,2,4.86
+7,21-02-2022,CGF02,CGF02.1,Chiloscyllium griseum,Unidentified teleosts,3,Unidentified,Unidentified,5,2,2.2
+8,24-02-2022,SLF04,SLF04.1,Scoliodon laticaudus,Kadal shrimp,3,Penaeidae,Metapenaeus sp,2,1,2.52
+9,24-02-2022,SLF05,SLF05.1,Scoliodon laticaudus,Indian Squid,4,Loliginidae,Loligo duvauceli,2,1,1.36
+10,24-02-2022,SLF05,SLF05.2,Scoliodon laticaudus,Kadal shrimp,4,Penaeidae,Metapenaeus sp,2,1,0.55
+11,24-02-2022,SLF06,SLF06.1,Scoliodon laticaudus,Kadal shrimp,3,Penaeidae,Metapenaeus sp,1,1,1.55
+12,24-02-2022,CLF06,CLF06.1,Carcharhinus limbatus,Unidentified teleosts,2,Unidentified,Unidentified,4,1,0.1
+13,25-02-2022,CGM05,CGM05.1,Chiloscyllium griseum,,3,Nematoda,Nematoda,1,9,0.1
+14,25-02-2022,CGM05,CGM05.2,Chiloscyllium griseum,Sardine,3,Clupeidae,Sardinella sp,3,1,1.02
+15,25-02-2022,SLM08,SLM08.1,Scoliodon laticaudus,Kadal shrimp,4,Penaeidae,Metapenaeus sp,1,1,1.08
+16,26-02-2022,SPLF01,SPLF01.1,Sphyrna lewini,Kiddi Shrimp,3,Penaeidae,Parapenaeopsis sp,2,2,1.07
+17,03-03-2022,SLM11,SLM11.1,Scoliodon laticaudus,Squid,3,Loliginidae,Loligo duvauceli,4,2,1.53
+18,03-03-2022,SLM11,SLM11.2,Scoliodon laticaudus,Striped shore crab,3,Grapsidae,Pachygrapsus sp,3,1,0.36
+19,03-03-2022,CLF09,CLF09.1,Carcharhinus limbatus,Pedwa/Sardine,5,Clupeidae,Sardinella sp,2,1,26.83
+20,03-03-2022,CLF09,CLF09.2,Carcharhinus limbatus,Indian Squid,5,Loliginidae,Loligo duvauceli,2,1,3.16
+21,03-03-2022,CLF09,CLF09.3,Carcharhinus limbatus,Shrimp,5,Penaeidae,Metapenaeus sp?,5,2,0.25
+22,03-03-2022,CLF09,CLF09.4,Carcharhinus limbatus,Unidentified crab,5,Unidentified,Unidentified,4,1,0.9
+23,04-03-2022,SPLM02,SPLM02.1,Sphyrna lewini,Unidentified teleosts,4,Unidentified,Unidentified,4,2,3.51
+24,04-03-2022,SPLM02,SPLM02.2,Sphyrna lewini,Indian Squid,4,Loliginidae,Loligo duvauceli,4,2,23.01
+25,04-03-2022,SLF14, SLF14.1,Scoliodon laticaudus,Kadal shrimp,5,Penaeidae,Metapenaeus sp,2,2,8.02
+26,04-03-2022,SPLM03,SPLM03.1,Sphyrna lewini,Kiddi Shrimp,4,Penaeidae,Parapenaeopsis stylifera,3,2,30.78
+27,05-03-2022,CAF12,CAF12.1,Chiloscyllium arabicum,Unidentified teleosts,2,Unidentified,Unidentified,4,1,0.57
+28,05-03-2022,CAF12,CAF12.2,Chiloscyllium arabicum,Nematodes,2,Nematoda,Nematoda,1,18,0.32
+29,05-03-2022,CAM13,CAM13.1,Chiloscyllium arabicum,Squid,2,Loliginidae,Loligo duvauceli,4,1,0.1
+30,05-03-2022,CAF17,CAF17.1,Chiloscyllium arabicum,Unidentified shrimp,4,Penaeidae,na,4,1,0.12
+31,05-03-2022,CAF17,CAF17.2,Chiloscyllium arabicum,Unidentified teleosts,4,Unidentified,Unidentified,4,2,0.23
+32,05-03-2022,CAF17,CAF17.3,Chiloscyllium arabicum,Squid,4,Loliginidae,Loligo duvauceli,3,1,0.2
+33,05-03-2022,CAF17,CAF17.4,Chiloscyllium arabicum,Nematodes,4,Nematoda,Nematoda,1,11,0.16
+34,05-03-2022,CAF18,CAF18.1,Chiloscyllium arabicum,Squid,1,Loliginidae,Loligo duvauceli,3,2,1.45
+35,05-03-2022,CAF19,CAF19.1,Chiloscyllium arabicum,Squid,4,Loliginidae,Loligo duvauceli,4,1,0.48
+36,05-03-2022,CAF19,CAF19.2,Chiloscyllium arabicum,Unidentified shrimp,4,Unidentified,Unidentified,4,1,0.1
+37,05-03-2022,CAM20,CAM20.1,Chiloscyllium arabicum,Unidentified teleosts,5,Unidentified,Unidentified,4,3,5.36
+38,05-03-2022,CAM20,CAM20.2,Chiloscyllium arabicum,Unidentified shrimp,5,Unidentified,Unidentified,4,2,1.15
+39,05-03-2022,CAF21,CAF21.1,Chiloscyllium arabicum,Unidentified teleosts,5,Unidentified,Unidentified,4,3,10.4
+40,05-03-2022,CAF21,CAF21.2,Chiloscyllium arabicum,Nematodes,5,Nematoda,Nematoda,2,13,0.27
+41,06-03-2022,SLM16,SLM16.1,Scoliodon laticaudus,Unidentified teleosts,4,Unidentified,Unidentified,4,2,3.41
+42,09-03-2022,CLM12,CLM12.1,Carcharhinus limbatus,Mackerel,5,Scombridae,Rastrelliger kanagurta,2,2,152.57
+43,10-03-2022,CLF14,CLF14.1,Carcharhinus limbatus,Squid,3,Loliginidae,Loligo duvauceli,3,2,0.51
+44,10-03-2022,CLF14,CLF14.2,Carcharhinus limbatus,Unidentified shrimp,3,Penaeidae,Metapenaeus sp?,4,2,0.2
+45,10-03-2022,CLM15,CLM15.1,Carcharhinus limbatus,Unidentified teleosts,3,Unidentified,Unidentified,4,3,6.02
+46,10-03-2022,SPLF04,SPLF04.1,Sphyrna lewini,Indian squid,3,Loliginidae,Loligo duvauceli,3,2,2.23
+47,10-03-2022,SPLF05,SPLF05.1,Sphyrna lewini,Indian squid,4,Loliginidae,Loligo duvauceli,2,1,1.53
+48,10-03-2022,SPLF05,SPLF05.2,Sphyrna lewini,Kadal shrimp,4,Penaeidae,Metapenaeus sp,3,1,1.35
+49,11-03-2022,CLF19,CLF19.1,Carcharhinus limbatus,Sardine,5,Clupeidae,Sardinella sp,2,2,8.03
+50,11-03-2022,o,CLF19.2,Carcharhinus limbatus,squid,5,Loliginidae,Loligo duvauceli,3,3,10.3
+51,11-03-2022,CLF19,CLF19.3,Carcharhinus limbatus,Unidentified teleosts,5,Unidentified,Unidentified,5,1,1.15
+52,11-03-2022,CLF19,CLF19.4,Carcharhinus limbatus,Unidentified calcified object,5,Unidentified,Unidentified,2,1,2.2
+53,12-03-2022,CAF25,CAF25.1,Chiloscyllium arabicum,Unidentified teleosts,5,Unidentified,Unidentified,4,7,4.99
+54,12-03-2022,CAF25,CAF25.2,Chiloscyllium arabicum,Mysis,5,Mysidae,Mysis,1,6,2.3
+55,12-03-2022,CAM26,CAM26.1,Chiloscyllium arabicum,Unidentified teleosts,4,Unidentified,Unidentified,4,5,3.53
+56,12-03-2022,CAM26,CAM26.2,Chiloscyllium arabicum,squid,4,Loliginidae,Loligo duvauceli,4,1,0.21
+57,12-03-2022,CAM26,CAM26.3,Chiloscyllium arabicum,Unidentified shrimp,4,Unidentified,Unidentified,3,1,0.45
+58,12-03-2022,CAM26,CAM26.4,Chiloscyllium arabicum,Nematodes,4,Nematoda,Nematoda,1,12,0.16
+59,12-03-2022,CGF27,CGF27.1,Chiloscyllium griseum,mantis shrimp,5,Squillidae,Miyakea nepa,2,1,7.42
+60,12-03-2022,CGF27,CGF27.2,Chiloscyllium griseum,Unidentified teleosts,5,Unidentified,Unidentified,4,2,3.79
+61,12-03-2022,CGF27,CGF27.3,Chiloscyllium griseum,Squid,5,Loliginidae,Loligo duvauceli,3,1,0.35
+62,12-03-2022,CGF29,CGF29.1,Chiloscyllium griseum,Squid,4,Loliginidae,Loligo duvauceli,4,1,0.3
+63,12-03-2022,CGF29,CGF29.2,Chiloscyllium griseum,Unidentified shrimp,4,Unidentified,Unidentified,4,2,1.59
+64,14-03-2022,SLF21,SLF21.1,Scoliodon laticaudus,Kadal shrimp,3,Penaeidae,Metapenaeus sp,2,1,2.2
+65,14-03-2022,CGM32,CGM32.1,Chiloscyllium griseum,Kadal shrimp,4,Penaeidae,Metapenaeus sp,2,1,2.35
+66,14-03-2022,CGF35,CGF35.1,Chiloscyllium griseum,Indian squid,3,Loliginidae,Loligo duvauceli,2,1,4.2
+67,14-03-2022,CGF35,CGF35.2,Chiloscyllium griseum,Kadal shrimp,3,Penaeidae,Metapenaeus sp,2,1,1.1
+68,14-03-2022,CGF35,CGF35.3,Chiloscyllium griseum,Nematodes,3,Nematoda,Nematoda,1,6,0.11
+69,15-03-2022,SLF28,SLF28.1,Scoliodon laticaudus,Unidentified shrimp,3,Unidentified,Unidentified,4,1,0.29
+70,15-03-2022,CAF38,CAF38.1,Chiloscyllium arabicum,squid,4,Loliginidae,Loligo duvauceli,4,1,0.12
+71,15-03-2022,SLM29,SLM29.1,Scoliodon laticaudus,Kadal shrimp,5,Penaeidae,Metapenaeus sp,2,1,4.3
+72,15-03-2022,SLF30,SLF30.1,Scoliodon laticaudus,Tiger shrimp,5,Penaeidae,Penaeus monodon,2,1,5.9
+73,19-03-2022,CAM39,CAM39.1,Chiloscyllium arabicum,Unidentified shrimp,4,Unidentified,Unidentified,4,1,0.1
+74,19-03-2022,CAM40,CAM40.1,Chiloscyllium arabicum,Indian squid,4,Loliginidae,Loligo duvauceli,4,1,2.16
+75,19-03-2022,CGM41,CGM41.1,Chiloscyllium griseum,Unidentified teleosts,3,Unidentified,Unidentified,4,1,0.56
+76,19-03-2022,CGM41,CGM41.2,Chiloscyllium griseum,Indian squid,3,Loliginidae,Loligo duvauceli,3,1,0.2
+77,19-03-2022,CGF42,CGF42.1,Chiloscyllium griseum,Indian squid,3,Loliginidae,Loligo duvauceli,3,1,0.2
+78,19-03-2022,CGF42,CGF42.2,Chiloscyllium griseum,Nematodes,3,Nematoda,Nematoda,1,2,0.1
+79,19-03-2022,CGF43,CGF43.1,Chiloscyllium griseum,Kadal shrimp,5,Penaeidae,Metapenaeus sp,1,3,17.68
+80,23-03-2022,SLM33,SLM33.1,Scoliodon laticaudus,Indian Squid,4,Loliginidae,Loligo duvauceli,2,2,13.46
+81,23-03-2022,SLM33,SLM33.2,Scoliodon laticaudus,Unidentified teleosts,4,Unidentified,Unidentified,4,2,3.76
+82,24-03-2022,CAM44,CAM44.1,Chiloscyllium arabicum,Unidentified teleosts,3,Unidentified,Unidentified,4,1,0.46
+83,24-03-2022,CAM46,CAM46.1,Chiloscyllium arabicum,Tongue-Solefish,5,Cynoglossidae,Cynoglossus sp,1,3,17.67
+84,26-03-2022,SLF36,SLF36.1,Scoliodon laticaudus,Indian Squid,4,Loliginidae,Loligo duvauceli,2,1,1.01
+85,26-03-2022,SLM37,SLM37.1,Scoliodon laticaudus,Kiddi Shrimp,3,Penaeidae,Parapenaeopsis sp,3,2,2.46
+86,26-03-2022,SLF39,SLF39.1,Scoliodon laticaudus,Indian Squid,4,Loliginidae,Loligo duvauceli,2,2,10.55
+87,26-03-2022,SLF40,SLF40.1,Scoliodon laticaudus,Indian Squid,4,Loliginidae,Loligo duvauceli,1,1,4.28
+88,31-03-2022,SLM43,SLM43.1,Scoliodon laticaudus,Unidentified teleosts,3,Unidentified,Unidentified,4,2,0.8
+89,31-03-2022,SLM44,SLM44.1,Scoliodon laticaudus,Kiddi Shrimp,4,Penaeidae,Parapenaeopsis sp,4,2,2.48
+90,31-03-2022,CGM49,CGM49.1,Chiloscyllium griseum,Unidentified teleosts,2,Unidentified,Unidentified,4,1,0.1
+91,31-03-2022,CGM49,CGM49.2,Chiloscyllium griseum,Nematodes,2,Nematoda,Nematoda,1,15,0.28
+92,31-03-2022,CGF50,CGF50.1,Chiloscyllium griseum,Unidentified teleosts,2,Unidentified,Unidentified,4,1,0.1
+93,31-03-2022,CGF50,CGF50.2,Chiloscyllium griseum,Nematodes,2,Nematoda,Nematoda,2,9,0.13
+94,01-03-2022,CLM21,CLM21.1,Carcharhinus limbatus,Sardine,3,Clupeidae,Sardinella sp,2,2,1.88
+95,01-04-2022,SLF49,SLF49.1,Scoliodon laticaudus,Swimming crab,4,Portunidae,Charybdis sp,2,1,1.76
+96,01-04-2022,SLF50,SLF50.1,Scoliodon laticaudus,Unidentified teleosts,3,Unidentified,Unidentified,4,1,0.57
+97,03-04-2022,SLM52,SLM52.1,Scoliodon laticaudus,Mantis shrimp,4,Squillidae,Squilla sp,2,1,5.87
+98,03-04-2022,SLM54,SLM54.1,Scoliodon laticaudus,Mantis shrimp,4,Squillidae,Squilla sp,1,1,2.14
+99,03-04-2022,SLM54,SLM54.1,Scoliodon laticaudus,Kiddi Shrimp,4,Penaeidae,Parapenaeopsis stylifera,2,3,1.36
+100,05-04-2022,CGF51,CGF51.1,Chiloscyllium griseum,Tongue-Solefish,4,Cynoglossidae,Cynoglossus sp,2,2,1.53
+101,05-04-2022,CGM52,CGM52.1,Chiloscyllium griseum,Indian Squid,2,Loliginidae,Loligo duvauceli,3,2,0.25
+102,05-04-2022,CGF54,CGF54.1,Chiloscyllium griseum,Kadal shrimp,4,Penaeidae,Metapenaeus sp,2,2,1.89
+103,05-04-2022,CGF54,CGF54.2,Chiloscyllium griseum,Unidentified teleosts,4,Unidentified,Unidentified,4,1,0.1
+104,06-04-2022,CLM22,CLM22.1,Carcharhinus limbatus,Indian Scad,5,Carangidae,Decapterus russelli,1,1,13.71
+105,06-04-2022,CLM22,CLM22.2,Carcharhinus limbatus,King Mackerel,5,Scombridae,Scomberomorus sp,2,1,211.96
+106,06-04-2022,CLM22,CLM22.3,Carcharhinus limbatus,Anchovie,5,Engraulidae,Stolephorus sp,2,4,17.06
+107,06-04-2022,CLM22,CLM22.4,Carcharhinus limbatus,Unidentified teleosts,5,Unidentified,Unidentified,4,5,10.61
+108,09-04-2022,SLF55,SLF55.1,Scoliodon laticaudus,Indian squid,4,Loliginidae,Loligo duvauceli,2,2,8.8
+109,09-04-2022,SLF55,SLF55.2,Scoliodon laticaudus,Tiger shrimp,4,Penaeidae,Penaeus monodon,2,1,3.1
+110,09-04-2022,SLM56,SLM56.1,Scoliodon laticaudus,Swimming crab,3,Portunidae,Charybdis sp,3,2,4.7
+111,09-04-2022,CLM23,CLM23.1,Carcharhinus limbatus,Indian squid,4,Loliginidae,Loligo duvauceli,1,1,8.96
+112,09-04-2022,CLM23,CLM23.2,Carcharhinus limbatus,Sardine,4,Clupeidae,Sardinella sp,3,1,2.02
+113,09-04-2022,CLM23,CLM23.3,Carcharhinus limbatus,Anchovie,4,Engraulidae,Stolephorus sp,2,3,10.1
+114,09-04-2022,SLF57,SLF57.1,Scoliodon laticaudus,Kadal shrimp,3,Penaeidae,Metapenaeus sp,2,1,1.07
+115,09-04-2022,SLF57,SLF57.1,Scoliodon laticaudus,Kiddi Shrimp,3,Penaeidae,Parapenaeopsis stylifera,2,3,3.2
+116,10-04-2022,SPLM06,SPLM06.1,Sphyrna lewini,Indian squid,3,Loliginidae,Loligo duvauceli,2,1,3.2
+117,10-04-2022,SLF58,SLF58.1,Scoliodon laticaudus,Indian squid,3,Loliginidae,Loligo duvauceli,2,1,6.9
+118,10-04-2022,CAF55,CAF55.1,Chiloscyllium arabicum,Swimming crab,4,Portunidae,Charybdis sp,2,2,8.73
+119,10-04-2022,CAF55,CAF55.2,Chiloscyllium arabicum,Nematodes,3,Nematoda,Nematoda,1,7,0.14
+120,10-04-2022,CLM24,CLM24.1,Carcharhinus limbatus,Sardine,4,Clupeidae,Sardinella sp,2,4,22.14
+121,11-04-2022,SLM59,SLM59.1,Scoliodon laticaudus,Mantis shrimp,4,Squillidae,Squilla sp,2,2,9.6
+122,11-04-2022,SLM60,SLM60.1,Scoliodon laticaudus,Tongue-Solefish,3,Cynoglossidae,Cynoglossus sp,2,1,1.94
+123,12-04-2022,CLM26,CLM26.1,Carcharhinus limbatus,Spadefish,3,Ephippidae,Ephippus,3,2,8.91
+124,13-04-2022,SLM61,SLM61.1,Scoliodon laticaudus,Swimming crab,3,Portunidae,Charybdis sp,2,1,1.26
+125,13-04-2022,SLF62,SLF62.1,Scoliodon laticaudus,Kiddi Shrimp,4,Penaeidae,Parapenaeopsis stylifera,2,2,4.35
+126,13-04-2022,SLF63,SLF63.1,Scoliodon laticaudus,Kiddi Shrimp,4,Penaeidae,Parapenaeopsis stylifera,1,3,3.16
+127,13-04-2022,SLF63,SLF63.1,Scoliodon laticaudus,Mantis shrimp,4,Squillidae,Squilla sp,1,2,11.61
+128,13-04-2022,SLM64,SLM64.1,Scoliodon laticaudus,Indian squid,3,Loliginidae,Loligo duvauceli,2,2,6.46
+129,14-04-2022,CAM56,CAM56.1,Chiloscyllium arabicum,Kadal shrimp,3,Penaeidae,Metapenaeus sp,3,1,3.73
+130,14-04-2022,CGM57,CGM57.1,Chiloscyllium griseum,Indian squid,3,Loliginidae,Loligo duvauceli,1,1,0.42
+131,14-04-2022,CGM57,CGM57.2,Chiloscyllium griseum,Anchovie,3,Engraulidae,Stolephorus sp,2,1,0.2
+132,14-04-2022,CGF58,CGF58.1,Chiloscyllium griseum,Nematodes,2,Nematoda,Nematoda,1,2,0.1
+133,14-04-2022,CGM59,CGM59.1,Chiloscyllium griseum,Swimming crab,4,Portunidae,Charybdis sp,2,1,3.53
+134,14-04-2022,CGF60,CGF60.1,Chiloscyllium griseum,Anchovie,2,Engraulidae,Stolephorus sp,1,1,7.32
+135,14-04-2022,CAF62,CAF62.1,Chiloscyllium arabicum,Indian squid,3,Loliginidae,Loligo duvauceli,1,2,0.2
+136,14-02-2022,CAF62,CAF62.2,Chiloscyllium arabicum,Bristleworm,4,Polychaete,Polychaete worm,3,1,0.59
+137,15-04-2022,CLM27,CLM27.1,Carcharhinus limbatus,Mantis shrimp,2,Squillidae,Squilla sp,1,3,5.87
+138,15-04-2022,CLM28,CLM28.1,Carcharhinus limbatus,Indian squid,5,Loliginidae,Loligo duvauceli,1,2,4.67
+139,15-04-2022,CLM28,CLM28.1,Carcharhinus limbatus,Ladyfish,5,Elopidae,Elops,2,1,19.55
+140,15-04-2022,CLM29,CLM29.1,Carcharhinus limbatus,Mackerel,5,Scombridae,Rastrelliger kanagurta,2,1,11.44
+141,15-04-2022,CLM30,CLM30.1,Carcharhinus limbatus,Anchovie,2,Engraulidae,Stolephorus sp,3,1,0.67
+142,15-04-2022,CLM31,CLM31.1,Carcharhinus limbatus,Mantis shrimp,4,Squillidae,Squilla sp,1,2,23.91
+143,16-04-2022,SLM65,SLM65.1,Scoliodon laticaudus,Indian squid,3,Loliginidae,Loligo duvauceli,1,1,0.3
+144,16-04-2022,SLM66,SLM66.1,Scoliodon laticaudus,Kiddi Shrimp,3,Penaeidae,Parapenaeopsis stylifera,2,1,3.7
+145,16-04-2022,SLF67,SLF67.1,Scoliodon laticaudus,Bristleworm,2,Polychaete,Polychaete worm,4,1,0.12
+146,16-04-2022,SLF67,SLF67.2,Scoliodon laticaudus,Ladyfish,2,Elopidae,Elops,3,1,1.24
+147,16-04-2022,SLM68,SLM68.1,Scoliodon laticaudus,Kiddi Shrimp,4,Penaeidae,Parapenaeopsis stylifera,2,1,1.52
+148,16-04-2022,SLM68,SLM68.2,Scoliodon laticaudus,Indian squid,4,Loliginidae,Loligo duvauceli,2,1,0.3
+149,17-04-2022,CLM32,CLM32.1,Carcharhinus limbatus,Mantis shrimp,4,Squillidae,Squilla sp,2,2,21.41
+150,17-04-2022,CLM32,CLM32.2,Carcharhinus limbatus,Anchovie,4,Engraulidae,Stolephorus sp,3,3,12.11
+151,17-04-2022,CLF33,CLF33.1,Carcharhinus limbatus,Indian squid,3,Loliginidae,Loligo duvauceli,4,2,1.56
+152,17-04-2022,CLF33,CLF33.2,Carcharhinus limbatus,Mantis shrimp,3,Squillidae,Squilla sp,3,1,11.24
+153,17-04-2022,SLF69,SLF69.1,Scoliodon laticaudus,Tongue-Solefish,3,Cynoglossidae,Cynoglossus sp,2,1,4.62
+154,17-04-2022,SLF69,SLF69.2,Scoliodon laticaudus,Indian squid,3,Loliginidae,Loligo duvauceli,4,2,2.46
+155,17-04-2022,SLM70,SLM70.1,Scoliodon laticaudus,Mantis shrimp,3,Squillidae,Squilla sp,2,1,6.11
+156,17-04-2022,SLM70,SLM70.2,Scoliodon laticaudus,Indian squid,3,Loliginidae,Loligo duvauceli,3,1,0.1
+157,17-04-2022,SLM71,SLM71.1,Scoliodon laticaudus,Ladyfish,3,Elopidae,Elops,3,1,2.1
+158,17-04-2022,SLM72,SLM72.1,Scoliodon laticaudus,Kiddi Shrimp,2,Penaeidae,Parapenaeopsis stylifera,2,1,2.24
+159,17-04-2022,CAF65,CAF65.1,Chiloscyllium arabicum,Tongue-Solefish,3,Cynoglossidae,Cynoglossus sp,3,1,1.01
+160,17-04-2022,CAF65,CAF65.2,Chiloscyllium arabicum,Mantis shrimp,3,Squillidae,Squilla sp,2,1,3.46
+161,18-04-2022,CAM66,CAM66.1,Chiloscyllium arabicum,Swimming crab,3,Portunidae,Charybdis sp,3,1,2.9
+162,18-04-2022,CAM66,CAM66.2,Chiloscyllium arabicum,Indian squid,3,Loliginidae,Loligo duvauceli,2,1,1.02
+163,18-04-2022,SLF73,SLF73.1,Scoliodon laticaudus,Anchovie,3,Engraulidae,Stolephorus sp,3,1,3.46
+164,19-04-2022,SLF74,SLF74.1,Scoliodon laticaudus,Mantis shrimp,3,Squillidae,Squilla sp,2,1,5.66
+165,19-04-2022,SLM75,SLM75.1,Scoliodon laticaudus,Swimming crab,2,Portunidae,Charybdis sp,2,1,2.12
+166,19-04-2022,SLF76,SLF76.1,Scoliodon laticaudus,Kadal shrimp,2,Penaeidae,Metapenaeus sp,3,2,2.64
+167,19-04-2022,SLF77,SLF77.1,Scoliodon laticaudus,Swimming crab,3,Portunidae,Charybdis sp,3,1,1.42
+168,19-04-2022,SLM78,SLF77.2,Scoliodon laticaudus,Kadal shrimp,3,Penaeidae,Metapenaeus sp,3,1,1.96
+169,19-04-2022,CGM68,CGM68.1,Chiloscyllium griseum,Indian squid,3,Loliginidae,Loligo duvauceli,4,1,0.1
+170,19-04-2022,CGM68,CGM68.2,Chiloscyllium griseum,Swimming crab,3,Portunidae,Charybdis sp,2,1,0.5
+171,19-04-2022,CGM68,CGM68.3,Chiloscyllium griseum,Nematodes,3,Nematoda,Nematoda,2,4,0.1
+172,19-04-2022,CAM69,CAM69.1,Chiloscyllium arabicum,Mantis shrimp,4,Squillidae,Squilla sp,3,1,3.21
+173,19-04-2022,CGF71,CGF71.1,Chiloscyllium griseum,Indian squid,4,Loliginidae,Loligo duvauceli,3,1,2.47
+174,19-04-2022,CGF71,CGF71.2,Chiloscyllium griseum,Anchovie,4,Engraulidae,Stolephorus sp,2,1,0.5
+175,19-04-2022,CGF72,CGF72.1,Chiloscyllium griseum,Kadal shrimp,4,Penaeidae,Metapenaeus sp,3,2,8.42
+176,19-04-2022,CGF73,CGF73.1,Chiloscyllium griseum,Indian squid,5,Loliginidae,Loligo duvauceli,4,1,0.24
+177,19-04-2022,CGF73,CGF73.2,Chiloscyllium griseum,Kadal shrimp,5,Penaeidae,Metapenaeus sp,2,1,0.41
+178,19-04-2022,CGF73,CGF73.3,Chiloscyllium griseum,Ribbon fish,5,Trichiuridae,Trichiurus lepturus,3,1,0.15
+179,19-04-2022,SLM78,SLM78.1,Scoliodon laticaudus,Mantis shrimp,4,Squillidae,Squilla sp,3,1,1.34
+180,19-04-2022,SLM78,SLM78.2,Scoliodon laticaudus,Kadal shrimp,4,Penaeidae,Metapenaeus sp,3,1,0.75
+181,19-04-2022,SLF79,SLF79.1,Scoliodon laticaudus,Mantis shrimp,4,Squillidae,Squilla sp,2,1,1.02
+182,19-04-2022,SLF79,SLF79.2,Scoliodon laticaudus,Ribbon fish,5,Trichiuridae,Trichiurus lepturus,2,1,3.26
+183,20-04-2022,CGF74,CGF74.1,Chiloscyllium griseum,Mantis shrimp,3,Squillidae,Squilla sp,3,1,2.54
+184,20-04-2022,CGF74,CGF74.2,Chiloscyllium griseum,Nematodes,3,Nematoda,Nematoda,1,2,0.36
+185,20-04-2022,CAF76,CAF76.1,Chiloscyllium arabicum,Tongue-Solefish,4,Cynoglossidae,Cynoglossus sp,2,4,7.5
+186,20-04-2022,CAF76,CAF76.2,Chiloscyllium arabicum,Swimming crab,4,Portunidae,Charybdis sp,1,2,2.4
+187,20-04-2022,SLM80,SLM80.1,Scoliodon laticaudus,Mantis shrimp,3,Squillidae,Squilla sp,2,1,2.3
+188,20-04-2022,SLM81,SLM81.1,Scoliodon laticaudus,Tongue-Solefish,4,Cynoglossidae,Cynoglossus sp,3,2,3.16
+189,20-04-2022,SLF82,SLF82.1,Scoliodon laticaudus,Mantis shrimp,3,Squillidae,Squilla sp,3,1,1.76
+190,20-04-2022,SLF82,SLF82.2,Scoliodon laticaudus,Indian squid,5,Loliginidae,Loligo duvauceli,2,1,0.24
+191,20-04-2022,SLF83,SLF83.1,Scoliodon laticaudus,Indian squid,3,Loliginidae,Loligo duvauceli,3,1,0.1
+192,20-04-2022,CLM34,CLM34.1,Carcharhinus limbatus,Mantis shrimp,5,Squillidae,Squilla sp,3,3,27.61
+193,20-04-2022,CLM34,CLM34.2,Carcharhinus limbatus,Anchovie,5,Engraulidae,Stolephorus sp,2,5,17.67
+194,20-04-2022,CLM34,CLM34.3,Carcharhinus limbatus,Mantis shrimp,5,Squillidae,Squilla sp,2,4,5.58
+195,20-04-2022,SLM84,SLM84.1,Scoliodon laticaudus,Mantis shrimp,3,Squillidae,Squilla sp,2,1,3.1
+196,20-04-2022,SLF85,SLF85.1,Scoliodon laticaudus,Tongue-Solefish,4,Cynoglossidae,Cynoglossus sp,2,1,0.47
+197,20-04-2022,SLF85,SLF85.2,Scoliodon laticaudus,Anchovie,5,Engraulidae,Stolephorus sp,3,1,0.4
+198,20-04-2022,SLF85,SLF85.3,Scoliodon laticaudus,Kadal shrimp,4,Penaeidae,Metapenaeus sp,2,3,0.22
+199,20-04-2022,SLF86,SLF86.1,Scoliodon laticaudus,Anchovie,5,Engraulidae,Stolephorus sp,2,1,2.14
+200,20-04-2022,SLF88,SLF88.1,Scoliodon laticaudus,Mysis,5,Mysidae,Metapenaeus sp,2,1,0.1
+201,20-04-2022,SLF89,SLF89.1,Scoliodon laticaudus,Kadal shrimp,4,Penaeidae,Metapenaeus sp,3,1,0.1
+202,20-04-2022,SLF90,SLF90.1,Scoliodon laticaudus,Tongue-Solefish,4,Cynoglossidae,Cynoglossus sp,2,1,1.66
+203,20-04-2022,SLM92,SLM92.1,Scoliodon laticaudus,Kiddi Shrimp,3,Penaeidae,Parapenaeopsis sp,2,1,1.01
+204,20-04-2022,SLF93,SLF93.1,Scoliodon laticaudus,Mantis shrimp,3,Squillidae,Squilla sp,3,1,4.52
+205,20-04-2022,SLF94,SLF94.1,Scoliodon laticaudus,Mantis shrimp,4,Squillidae,Squilla sp,2,1,3.27
+206,21-04-2022,CLF35,CLF35.1,Carcharhinus limbatus,Surmai,4,Scombridae,Scomberomorus sp,3,1,67.41
+207,22-04-2022,CLF36,CLF36.1,Carcharhinus limbatus,Mantis shrimp,4,Squillidae,Squilla sp,2,2,12.47
+208,22-04-2022,CLF36,CLF36.2,Carcharhinus limbatus,Anchovie,4,Engraulidae,Stolephorus sp,3,4,5.56
+209,22-04-2022,CLM38,CLM38.1,Carcharhinus limbatus,Mantis shrimp,4,Squillidae,Squilla sp,3,1,0.1
+210,22-04-2022,CLM38,CLM38.2,Carcharhinus limbatus,Anchovie,4,Engraulidae,Stolephorus sp,3,2,3.56
+211,22-04-2022,CLF39,CLF39.1,Carcharhinus limbatus,Indian squid,3,Loliginidae,Loligo duvauceli,2,1,27.33
+212,22-04-2022,CLM47,CLM47.1,Carcharhinus limbatus,Unidentified teleosts,3,Unidentified,Unidentified,4,3,7.2
+213,22-04-2022,CLF48,CLF48.1,Carcharhinus limbatus,Indian squid,3,Loliginidae,Loligo duvauceli,4,1,0.1
+214,22-04-2022,CLF48,CLF48.2,Carcharhinus limbatus,Mackerel,3,Scombridae,Rastrelliger kanagurta,3,2,27.9
+215,22-04-2022,CLF51,CLF51.1,Carcharhinus limbatus,Indian squid,2,Loliginidae,Loligo duvauceli,3,1,0.1
+216,22-04-2022,CLF52,CLF52.1,Carcharhinus limbatus,Mackerel,3,Scombridae,Rastrelliger kanagurta,2,1,3.24
+217,22-04-2022,CLF52,CLF52.2,Carcharhinus limbatus,Sea lice,3,Cymothoidae,Cymothoa,1,1,0.67
+218,22-04-2022,CLF53,CLF53.1,Carcharhinus limbatus,Indian squid,3,Loliginidae,Loligo duvauceli,2,3,17.15
+219,26-04-2022,CLF54,CLF54.1,Carcharhinus limbatus,Mackerel,4,Scombridae,Rastrelliger kanagurta,3,1,13.5
+220,26-04-2022,CAM77,CAM77.1,Chiloscyllium arabicum,Ladyfish,5,Elopidae,Elops,3,4,17.76
+221,26-04-2022,CAM77,CAM77.2,Chiloscyllium arabicum,Tongue-Solefish,5,Cynoglossidae,Cynoglossus sp,2,1,10.37
+222,26-04-2022,CGF78,CGF78.1,Chiloscyllium griseum,Nematodes,5,Nematoda,Nematoda,1,12,0.28
+223,26-04-2022,CGF78,CGF78.2,Chiloscyllium griseum,Swimming crab,5,Portunidae,Charybdis sp,3,2,5.68
+224,26-04-2022,CGF78,CGF78.3,Chiloscyllium griseum,Indian squid,5,Loliginidae,Loligo duvauceli,2,1,0.22
+225,26-04-2022,CGF78,CGF78.4,Chiloscyllium griseum,Tongue-Solefish,5,Cynoglossidae,Cynoglossus sp,2,1,1.86
+226,26-04-2022,CGF78,CGF78.5,Chiloscyllium griseum,Anchovie,5,Engraulidae,Stolephorus sp,1,1,1.47
+227,26-04-2022,CLF55,CLF55.1,Carcharhinus limbatus,Mantis shrimp,1,Squillidae,Squilla sp,4,1,0.12
